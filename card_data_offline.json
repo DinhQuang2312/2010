@@ -1,0 +1,62 @@
+{
+  "success": true,
+  "data": {
+    "websiteId": "fc8e1763db7249b6",
+    "productType": "photobouquet",
+    "configVersion": 1,
+    "enableRain": true,
+    "enableLetter": true,
+    "bouquetImages": [
+      "user_media/img-mv9ff31o-dfa55b96.webp",
+      "user_media/img-mv9ff31n-3289da58.webp",
+      "user_media/img-mv9ff311-d601e157.webp",
+      "user_media/img-mv9ff4b2-12fbbfbf.webp",
+      "user_media/img-mv9ff4bn-c755de6e.webp",
+      "user_media/img-mv9ff4no-4d158d95.webp"
+    ],
+    "bouquetCutouts": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "flyingTexts": [
+      "Chúc em luôn vui vẻ và hạnh phúc",
+      "Chúc em luôn xinh đẹp",
+      "Chúc em luôn yêu đời",
+      "Chúc mừng ngày phụ nữ việt nam",
+      "20/10",
+      "chúc em thật nhiều may mắn",
+      "Mong mọi điều dịu dàng sẽ đến với em"
+    ],
+    "flyingImages": [
+      "user_media/img-mv9ff5ct-de6b308e.webp",
+      "user_media/img-mv9ff5gb-cc2c8ac1.webp",
+      "user_media/img-mv9ff5p4-dc653f03.webp",
+      "user_media/img-mv9ff6bw-67edccaa.webp",
+      "user_media/img-mv9ff6ga-62fbedfb.webp",
+      "user_media/img-mv9ff6qw-732edd32.webp",
+      "user_media/img-mv9ff7kq-a2e6d362.webp",
+      "user_media/img-mv9ff7m4-cb0fa0f4.webp",
+      "user_media/img-mv9ff7sy-b5df609a.webp",
+      "user_media/img-mv9ff8oe-24f4ebb5.webp"
+    ],
+    "letter": {
+      "text": "Gửi cô gái bé nhỏ\n\nAnh chúc em ngày 20/10 lúc nào cũng xinh đẹp, may mắn, nhiều sức khỏe và lúc nào cũng vui vẻ.\nAnh mong rằng một chút ý này thay cho những bó hoa ngoài kia.\nCảm ơn em vì tất cả.",
+      "photo": "user_media/img-mv9ff4b2-12fbbfbf.webp",
+      "envelope": {
+        "topLine": "Dành tặng em",
+        "headline": "20/10",
+        "bottomLine": "Một chút thương"
+      }
+    },
+    "bgMusic": "user_media/audio-mv9ff9kg-7edf2bd9.mp3",
+    "palette": "hongdon",
+    "flyingHearts": true,
+    "expiresAt": null,
+    "createdAt": "2026-10-15T10:59:26.590Z",
+    "showWatermark": false
+  }
+}
